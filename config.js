@@ -5,7 +5,7 @@ const CONFIG = {
     valentineName: "Pao",
 
     // 
-    // 
+    //
     pageTitle: "Will You Be My Valentine? ❤️",
 
     // 
