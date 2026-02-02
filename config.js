@@ -45,7 +45,7 @@ const CONFIG = {
 
     // yes
     celebration: {
-        title: "Yay! I'm the luckiest YN in the world! ❤️",
+        title: "oh mah gah I'm the luckiest YN in the world! ❤️",
         message: "Now come get your gift, a hug and a kiss!",
         emojis: "❤️❤️❤️"  // These will bounce around
     },
